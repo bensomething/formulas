@@ -1,6 +1,6 @@
 [
     {
-      "name": "ifa",
+      "name": "if",
       "id": 1,
       "type": "Functions",
       "description": "Returns the first value if the condition is true; otherwise, returns the second value.",
